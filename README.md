@@ -4,7 +4,7 @@
 
 ### Master's Student in Artificial Intelligence & Data Science
 
-*Machine Learning · NLP · Big Data · Software Engineering*
+*Turning data into insights, pipelines, and intelligent solutions.*
 
 <p>
   <a href="https://www.linkedin.com/in/aya-bourhdifa-00693433b/">
